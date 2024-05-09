@@ -61,7 +61,9 @@
   <img src="https://skillicons.dev/icons?i=ubuntu" height=48px widht=48px title="UBUNTU"/>
 </div>
 
-<h2>Contact</h2>
+<h2>Contact Info</h2>
+<div>
   <a href="https://discord.com/users/386589525264302080" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="DISCORD" target="_blank"/>
   <a href="https://www.instagram.com/baka69420/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" title="INSTAGRAM" target="_blank"/>
   <a href="https://www.linkedin.com/in/rafael-alvarado-b770411a3/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LINKEDIN" target="_blank"/>
+</div>
