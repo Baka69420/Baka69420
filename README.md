@@ -11,6 +11,7 @@
 <h2>Language and Tools</h2>
 
 <h4>Main Technologies:</h4>
+<div>
   <img src="https://skillicons.dev/icons?i=angular" height=48px widht=48px title="ANGULAR"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" height=48px widht=48px title="BOOTSTRAP"/>
   <img src="https://skillicons.dev/icons?i=express" height=48px widht=48px title="EXPRESS"/>
@@ -20,8 +21,10 @@
   <img src="https://skillicons.dev/icons?i=mysql" height=48px widht=48px title="MYSQL"/>
   <img src="https://skillicons.dev/icons?i=py" height=48px widht=48px title="PYTHON"/>
   <img src="https://skillicons.dev/icons?i=ts" height=48px widht=48px title="TYPESCRIPT"/>
+</div>
 
 <h4>Other Technologies:</h4>
+<div>
   <img src="https://skillicons.dev/icons?i=arduino" height=48px widht=48px title="ARDUINO"/>
   <img src="https://skillicons.dev/icons?i=bash" height=48px widht=48px title="BASH"/>
   <img src="https://skillicons.dev/icons?i=c" height=48px widht=48px title="C"/>
@@ -35,8 +38,10 @@
   <img src="https://skillicons.dev/icons?i=sass" height=48px widht=48px title="SASS"/>
   <img src="https://skillicons.dev/icons?i=selenium" height=48px widht=48px title="SELENIUM"/>
   <img src="https://skillicons.dev/icons?i=vue" height=48px widht=48px title="VUE.JS"/>
+</div>
 
 <h4>Tools:</h4>
+<div>
   <img src="https://skillicons.dev/icons?i=docker" height=48px widht=48px title="DOCKER"/>
   <img src="https://skillicons.dev/icons?i=dotnet" height=48px widht=48px title=".NET"/>
   <img src="https://skillicons.dev/icons?i=git" height=48px widht=48px title="GIT"/>
@@ -46,12 +51,15 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height=48px widht=48px title="NODE.JS"/>
   <img src="https://skillicons.dev/icons?i=postman" height=48px widht=48px title="POSTMAN"/>
   <img src="https://skillicons.dev/icons?i=vscode" height=48px widht=48px title="VS CODE"/>
+</div>
 
 <h4>Distros:</h4>
+<div>
   <img src="https://skillicons.dev/icons?i=arch" height=48px widht=48px title="ARCH"/>
   <img src="https://skillicons.dev/icons?i=debian" height=48px widht=48px title="DEBIAN"/>
   <img src="https://skillicons.dev/icons?i=redhat" height=48px widht=48px title="REDHAT"/>
   <img src="https://skillicons.dev/icons?i=ubuntu" height=48px widht=48px title="UBUNTU"/>
+</div>
 
 <h2>Contact</h2>
   <a href="https://discord.com/users/386589525264302080" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" title="DISCORD" target="_blank"/>
